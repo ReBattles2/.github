@@ -3,6 +3,7 @@
 
 ## ❔About the game
 RE battles 2 is a continuation of the game series "RE battles"
+
 It's a simple game where you are a black stickman (called "black") and fight a red stickman (called "red")
 the game has 30 stages and at the end there's a final boss.
 
@@ -15,5 +16,7 @@ the game has 30 stages and at the end there's a final boss.
 
 ## 👨 Credits
 Coding - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+
 Animations - [Exinsate](https://github.com/Exisnate)
+
 Graphics - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
