@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/ReBattles2/ReBattles2/main/logomain.png" align="center">
 <h1>ReBattles2</h1>
+
 ## ❔About the game
 RE battles 2 is a continuation of the game series "RE battles"
 It's a simple game where you are a black stickman (called "black") and fight a red stickman (called "red")
