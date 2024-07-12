@@ -17,6 +17,12 @@ the game has 30 stages and at the end there's a final boss.
 ## 👨 Credits
 Coding - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
-Animations - [Exinsate](https://github.com/Exisnate)
+Character Animation - [Exinsate](https://github.com/Exisnate)
 
-Graphics - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
+Drawing - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
+
+Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok)
+
+Idea - SzyLego
+
+Distribution - [QwertyCodeQC](https://github.com/QwertyCodeQC)
