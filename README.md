@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/ReBattles2/ReBattles2/main/logomain.png" align="center">
 <h1>ReBattles2</h1>
 
+![Static Badge](https://img.shields.io/badge/State-Development-green)
 ## ❔About the game
 RE battles 2 is a continuation of the game series "RE battles"
 
