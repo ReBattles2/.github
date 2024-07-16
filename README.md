@@ -33,8 +33,8 @@ Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [Poto
 
 Idea - SzyLego
 
-Distribution - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+Distribution & Publication - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 ### For 3rd party creators
-If we violated your copyrights we're sorry.
+If we violated your copyrights, we're sorry.
 Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) if you want to your art has been taken down from our game. Thanks!
