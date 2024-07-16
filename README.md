@@ -29,8 +29,12 @@ Character Animation - [Exinsate](https://github.com/Exisnate)
 
 Drawing - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
-Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok)
+Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [Potoe](https://www.youtube.com/@potoe6393)
 
 Idea - SzyLego
 
 Distribution - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+
+### For 3rd party creators
+If we violated your copyrights we're sorry.
+Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) if you want to your art has been taken down!
