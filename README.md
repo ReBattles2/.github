@@ -20,7 +20,7 @@ the game has 30 stages and at the end there's a final boss.
 - shop (pay with virtual money)
 
 ## ⚖️ License
-ReBattles2 by Square Games is licensed under [MIT License](https://github.com/ReBattles2/ReBattles2/blob/main/LICENSE)
+ReBattles2 (Drawings, Animations, Music, SFX and other stuff created by us) by Square Games is licensed under [MIT License](https://github.com/ReBattles2/ReBattles2/blob/main/LICENSE)
 
 ## 👨 Credits
 Coding - [QwertyCodeQC](https://github.com/QwertyCodeQC)
