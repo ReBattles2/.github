@@ -23,7 +23,10 @@ the game has 30 stages and at the end there's a final boss.
 ReBattles2 (Drawings, Animations, Music, Code, SFX and other stuff created by us) by Square Games is licensed under [MIT License](https://github.com/ReBattles2/ReBattles2/blob/main/LICENSE)
 
 ## 👨 Credits
-Coding - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+
+Project Management - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+
+Coding & Development - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Character Animation - [Exinsate](https://github.com/Exisnate)
 
@@ -31,7 +34,7 @@ Drawing - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github
 
 Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok)
 
-Idea - SzyLego
+Idea - SzyLego, [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Distribution & Publication - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
