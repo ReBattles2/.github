@@ -9,6 +9,7 @@
 
 ## ❔About the game
 *ReBattles2 is a continuation of the game series "ReBattles"*
+
 It's Action-Fighting game where you fight with red stickman and he's whole army!
 
 You can play limited Event Stages or discover 4 magic realms in Story Stages!
