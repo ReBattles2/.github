@@ -6,14 +6,17 @@
 ![Static Badge](https://img.shields.io/badge/Price-Free-green)
 ![Static Badge](https://img.shields.io/badge/Engine-Unity-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/License-MIT-green)
-## ❔About the game
-RE battles 2 is a continuation of the game series "RE battles"
 
-It's a simple game where you are a black stickman (called "black") and fight a red stickman (called "red")
-the game has 30 stages and at the end there's a final boss.
+## ❔About the game
+*ReBattles2 is a continuation of the game series "ReBattles"*
+It's Action-Fighting game where you fight with red stickman and he's whole army!
+
+You can play limited Event Stages or discover 4 magic realms in Story Stages!
+
+Use special abililites (like heal, berserk) to have bigger chance to win! 
+
 
 ## 🤔 Plans for the future
-- Abilities eg. heal, shield, berserk
 - upgrades
 - more stages
 - skins (some with custom animations)
