@@ -34,9 +34,9 @@ Coding & Development - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Character Animation - [Exinsate](https://github.com/Exisnate)
 
-Drawing - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
+Drawings - [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
-Music - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok)
+Music & SFX - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Idea - SzyLego, [Exinsate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
