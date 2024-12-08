@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/ReBattles2/ReBattles2/main/logomain.png" align="center">
 <h1>ReBattles2</h1>
 
-![Static Badge](https://img.shields.io/badge/State-Development-yellow)
+![Static Badge](https://img.shields.io/badge/State-Cancelled-red)
 ![Static Badge](https://img.shields.io/badge/Genre-Action-red)
 ![Static Badge](https://img.shields.io/badge/Price-Free-green)
 ![Static Badge](https://img.shields.io/badge/Engine-Unity-8A2BE2)
