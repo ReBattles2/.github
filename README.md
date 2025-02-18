@@ -4,7 +4,6 @@
 ![Static Badge](https://img.shields.io/badge/State-Renewed-yellow)
 ![Static Badge](https://img.shields.io/badge/Genre-Action-red)
 ![Static Badge](https://img.shields.io/badge/Price-Free-green)
-![Static Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## ❔About the game
 *ReBattles2 is a continuation of the game series "ReBattles"*
