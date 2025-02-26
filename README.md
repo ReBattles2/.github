@@ -42,4 +42,4 @@ Distribution & Publication - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 ### For 3rd party creators
 If we violated your copyrights, we're sorry.
-Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you want us to take down yout art from our game. Thanks!
+Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you want us to take down your art from our game. Thanks!
