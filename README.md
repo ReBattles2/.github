@@ -34,7 +34,7 @@ Character Animation - [Exisnate](https://github.com/Exisnate)
 
 Drawings - [Exisnate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
-Music & SFX - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [QwertyCodeQC](https://github.com/QwertyCodeQC)
+Music & SFX - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [Ponos Corp](https://www.ponos.jp), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Idea - SzyLego, [Exisnate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
