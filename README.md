@@ -21,9 +21,6 @@ Use special abililites (like heal, berserk) to have bigger chance to win!
 - skins (some with custom animations)
 - shop (pay with virtual money)
 
-## ⚖️ License
-ReBattles2 (Drawings, Animations, Music, Code, SFX and other stuff created by us) by Square Games is licensed under [MIT License](https://github.com/ReBattles2/ReBattles2/blob/main/LICENSE)
-
 ## 👨 Credits
 
 Project Management - [QwertyCodeQC](https://github.com/QwertyCodeQC)
