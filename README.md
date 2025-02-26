@@ -28,7 +28,7 @@ ReBattles2 (Drawings, Animations, Music, Code, SFX and other stuff created by us
 
 Project Management - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
-Coding & Development - [QwertyCodeQC](https://github.com/QwertyCodeQC)
+Coding & Development - [QwertyCodeQC](https://github.com/QwertyCodeQC), [Exisnate](https://github.com/Exisnate)
 
 Character Animation - [Exisnate](https://github.com/Exisnate)
 
@@ -42,4 +42,4 @@ Distribution & Publication - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 ### For 3rd party creators
 If we violated your copyrights, we're sorry.
-Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you want to your art has been taken down from our game. Thanks!
+Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you want us to take down yout art from our game. Thanks!
