@@ -16,7 +16,6 @@ Use special abililites (like heal, berserk) to have bigger chance to win!
 
 
 ## 🤔 Plans for the future
-- upgrades
 - more stages
 - skins (some with custom animations)
 - shop (pay with virtual money)
