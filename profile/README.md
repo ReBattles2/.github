@@ -17,7 +17,7 @@ Use special abililites (like heal, berserk) to have more likely chance to win!
 ## 📖 Story
 [First version](https://github.com/ReBattles) of the game was written in [turbowarp](https://turbowarp.org) ([scratch](https://scratch.mit.edu) but better) by QwertyCode.
 
-A long time later he with his friend Exisnate wanted to create a sequel for this game. At first, we tried using [Phaser](https://phaser.io), but soon realized it wasn't a good fit.
+A long time later he with his friend Exisnate wanted to create a sequel for ReBattles. At first, we tried using [Phaser](https://phaser.io), soon to realize it wasn't a good fit.
 
 After some struggle, we switched to Unity and began development, but it turned out to be too heavy for our project.
 
