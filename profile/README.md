@@ -15,7 +15,7 @@ Play limited-time Event Stages, or explore four magical realms in the Story Mode
 Use special abililites (like heal, berserk) to have bigger chance to win!
 
 ## 📖 Story
-[First version](https://github.com/ReBattles) of the game was written in turbowarp ([scratch](https://scratch.mit.edu) but better) by QwertyCode.
+[First version](https://github.com/ReBattles) of the game was written in [turbowarp](https://turbowarp.org) ([scratch](https://scratch.mit.edu) but better) by QwertyCode.
 
 Then he with his friend Exisnate wanted to create a sequel for this game. At first, we tried using [Phaser](https://phaser.io), but soon realized it wasn't a good fit.
 
