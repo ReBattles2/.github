@@ -12,16 +12,16 @@ It's Action-Fighting game where you battle against red stickman and he's entire 
 
 Play limited-time Event Stages, or explore four magical realms in the Story Mode!
 
-Use special abililites (like heal, berserk) to have bigger chance to win!
+Use special abililites (like heal, berserk) to have more likely chance to win!
 
 ## 📖 Story
 [First version](https://github.com/ReBattles) of the game was written in [turbowarp](https://turbowarp.org) ([scratch](https://scratch.mit.edu) but better) by QwertyCode.
 
-Then he with his friend Exisnate wanted to create a sequel for this game. At first, we tried using [Phaser](https://phaser.io), but soon realized it wasn't a good fit.
+A long time later he with his friend Exisnate wanted to create a sequel for this game. At first, we tried using [Phaser](https://phaser.io), but soon realized it wasn't a good fit.
 
 After some struggle, we switched to Unity and began development, but it turned out to be too heavy for our project.
 
-So, we switched to [Godot Engine](https://godotengine.org) and it had everythind what we needed and now we're creating game in this engine.
+In the end we switched to [Godot Engine](https://godotengine.org) and it had everythind what we needed and now the final project is being made here.
 
 ## 💻 For curious developers
 ReBattles2 is built with Godot v4.4 and written entirely in GDScript (not C++, C#, etc.)
@@ -32,6 +32,8 @@ In launcher's frontend we're using [vite](https://vite.dev) and [react](https://
 ## 🤔 Plans for the future
 - More Stages
 - Unlockable Skins
+- Various Abilities
+- Events
 
 ## 👨 Credits
 
