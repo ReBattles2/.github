@@ -42,7 +42,7 @@ Project Management - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 Coding & Development - [QwertyCodeQC](https://github.com/QwertyCodeQC), [Exisnate](https://github.com/Exisnate)
 
 Character Animation - [Exisnate](https://github.com/Exisnate)
-
+ 
 Drawings - [Exisnate](https://github.com/Exisnate), [QwertyCodeQC](https://github.com/QwertyCodeQC)
 
 Music & SFX - Non-copyright creators, [Mekbok](https://www.youtube.com/@mekbok), [Ponos Corp](https://www.ponos.jp)
@@ -54,4 +54,4 @@ Distribution & Publication - [QwertyCodeQC](https://github.com/QwertyCodeQC)
 ### For 3rd party creators
 We respect all artists and their work – please let us know if something needs to be removed or credited properly.
 
-Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you want us to take down your art from our game. Thanks!
+Feel free to contact us via [issues](https://github.com/ReBattles2/Issues) (or E-Mail [hello@square.daxel.pl](mailto:hello@square.daxel.pl)) if you have any concerns. Thanks!
